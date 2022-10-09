@@ -1,6 +1,10 @@
 from email import message
 import logging
 
+
+#This is my first echo bot written in aiogram 
+
+
 from aiogram import Bot, Dispatcher, executor, types
 
 API_TOKEN = '5502461822:AAHk_yWHkTsqz3xyo5WgAELYOlgmESpO_78'
